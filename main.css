@@ -1,0 +1,44 @@
+canvas{
+    width:70%;
+    height: 70%;
+    position: static;
+    border: 1px solid black;
+    display: block;
+    float: left;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2%;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.controls-column{
+    display: block;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.win-los-block{
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.win-los-image{
+    width: 100%;
+
+}
+
+
+
+.spin-me-button{
+    font-size: 400%;
+    width:37%;
+    vertical-align: bottom;
+}
+.answer-combo-box {
+    font-size: 180%;
+    width:100%;
+}

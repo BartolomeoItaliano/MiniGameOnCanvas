@@ -1,0 +1,41 @@
+{
+    "BG.png": {
+      "imgPath": "img/BG.png"
+    },
+    "Bet_Line.png": {
+      "imgPath": "img/Bet_Line.png"
+    },
+    "SYM1.png": {
+      "imgPath": "img/SYM1.png"
+    },
+    "SYM3.png": {
+      "imgPath": "img/SYM3.png"
+    },
+    "SYM4.png": {
+      "imgPath": "img/SYM4.png"
+    },
+    "SYM5.png": {
+      "imgPath": "img/SYM5.png"
+    },
+    "SYM6.png": {
+      "imgPath": "img/SYM6.png"
+    },
+    "SYM7.png": {
+      "imgPath": "img/SYM7.png"
+    },
+  "rightArrow.png": {
+    "imgPath": "img/rightArrow.png"
+  },
+  "MichiganFrog.jpg": {
+    "imgPath": "img/MichiganFrog.jpg"
+  },
+  "MichiganFrogBackground.jpg": {
+    "imgPath": "img/MichiganFrogBackground.jpg"
+  },
+  "MichiganFrogMobile.png": {
+    "imgPath": "img/MichiganFrogMobile.png"
+  },
+  "MichiganFrogBackgroundMobile.png": {
+    "imgPath": "img/MichiganFrogBackgroundMobile.png"
+  }
+}
